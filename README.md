@@ -1,12 +1,9 @@
-# -robo-school-
-Верстаю небольшой лендинг с использованием gulp-сборки (готовые сниппеты, плагины, модули с готовым кодом и т.д.)
+## <h1 align="center">Layout | <a href="https://vitebskiy.github.io/Site-layout--robo-school-/" target="_blank">Robo-school</a> 
 
-<img height="300px" src="https://i.postimg.cc/ZqqM2BDF/2023-01-04-13-05-57.png">  
+<img src="https://i.postimg.cc/bNNH5VWb/2023-11-26-10-47-10.png"/></h1>
 
-  <a href="https://vitebskiy.github.io/Site-layout--robo-school-/">Демо верстки</a>
-  
-  <a href="https://www.figma.com/file/bSxMNm0CRXFcHQzke8C8W5/Untitled-(Copy)?node-id=0%3A1&t=ds8hgO6OzHuOdD4i-0">Макет(Figma)</a>
-  
-  
-  
+## How to use
+1. Install deps `npm i`
+2. Run `gulp`
 
+### Demo: <a href="https://vitebskiy.github.io/Site-layout--robo-school-/" target="_blank">Robo-school</a> 
